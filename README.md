@@ -33,9 +33,9 @@ Karena jarak antar baris pada label gizi sangat rapat, beberapa hasil *crop* mun
 
 ### 3\. Teks Multi-baris (Multiline)
 
-Mayoritas komponen gizi terdiri dari 1 baris teks. Namun, khusus untuk kelas **Carbs (Karbohidrat)** dan **Sodium (Natrium)**, terdapat beberapa gambar yang teksnya terbagi menjadi **2 baris** karena ruang kemasan yang sempit.
+Mayoritas komponen gizi terdiri dari 1 baris teks. Namun, khusus untuk kelas **Carbs (Karbohidrat)** dan **Sodium (Natrium)**, terdapat beberapa gambar yang teksnya terbagi menjadi **2 baris** karena panjang dan di campur dengann bahasa inggris.
 
-### 4\. Distribusi Kelas (Slight Imbalance)
+### 4\. Distribusi Kelas
 
   * `calories`: 84 gambar
   * `fat`: 84 gambar
