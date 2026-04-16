@@ -37,8 +37,6 @@ Mayoritas komponen gizi terdiri dari 1 baris teks. Namun, khusus untuk kelas **C
 
 ### 4\. Distribusi Kelas (Slight Imbalance)
 
-Terdapat sedikit ketidakseimbangan kelas akibat *human error* pada saat anotasi *bounding box* manual, dengan rincian total **420 gambar**:
-
   * `calories`: 84 gambar
   * `fat`: 84 gambar
   * `carbs`: 84 gambar
